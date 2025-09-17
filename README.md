@@ -38,40 +38,7 @@ For more details, please refer to the in-game "Help" section.
 
 ### [Google Drive](https://drive.google.com/file/d/1MwLniDyGFOleTzkjEiqMgU_vdD3nTtPp/view?usp=drive_link)
 
-### [itch.io]
-
----
-
-# ©️ Credits
-
-## ■ Texture ■
-
-### ◆ From School
-- Player And Enemy (Combat Plane)
-
-### ◆ [Unity Asset : 2D Space Kit](https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662#content)
-- Enemy Base Texture
-- Enemy Missile Texture
-
-### ◆ [ChatGPT](https://chatgpt.com/)
-- Game Logo Texture
-- Back Ground
-
-### ◆ [Google](https://www.google.com/)
-- Dash Icon
-- Directional_Arrow
-- Mouse Texture
-- Mini Map (Sona)
-- HP Bar
-- Aim Texture
-
-## ■ BGM / SFX ■
-
-### ◆ [DOVA-SYNDROME](https://dova-s.jp/)
-- All BGM
-
-### ◆ [効果音ラボ (Sound Effect Lab)](https://soundeffect-lab.info/)
-- All SFX
+### [itch.io](https://bis-mark.itch.io/void-nova-unity)
 
 ---
 
@@ -102,5 +69,41 @@ For more details, please refer to the in-game "Help" section.
 > 
 > ### ✔️ Completed
 >  + ***(Nothing Yet)***
+
+---
+
+# ©️ Credits
+
+## ■ Texture ■
+
+### ◆ From School
+- Player And Enemy (Combat Plane)
+
+### ◆ [Unity Asset : 2D Space Kit](https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662#content)
+- Enemy Base Texture
+- Enemy Missile Texture
+
+### ◆ [ChatGPT](https://chatgpt.com/)
+- Game Logo Texture
+- Back Ground
+
+### ◆ [Google](https://www.google.com/)
+- Dash Icon
+- Directional_Arrow
+- Mouse Texture
+- Mini Map (Sona)
+- HP Bar
+- Aim Texture
+
+### ◆ [OpenGameArt](https://opengameart.org/)
+- Explosion Sprite
+
+## ■ BGM / SFX ■
+
+### ◆ [DOVA-SYNDROME](https://dova-s.jp/)
+- All BGM
+
+### ◆ [効果音ラボ (Sound Effect Lab)](https://soundeffect-lab.info/)
+- All SFX
 
 ---
