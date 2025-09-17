@@ -49,7 +49,7 @@ For more details, please refer to the in-game "Help" section.
 
 ### v1.1 (2025.07.11)
 - Bug Fixed
-  + Adjusting the timing of the sound souce
+  + Adjusting the timing of the sound source
   + Add Icon for Game.exe
 
 ## 📝 Roadmap & Dev Notes
