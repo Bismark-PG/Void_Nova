@@ -34,7 +34,7 @@ For more details, please refer to the in-game "Help" section.
 
 **Have Fun!**
 
-## Download Lick
+## 💾 Download Lick
 
 ### [Google Drive](https://drive.google.com/file/d/1MwLniDyGFOleTzkjEiqMgU_vdD3nTtPp/view?usp=drive_link)
 
