@@ -36,7 +36,7 @@ For more details, please refer to the in-game "Help" section.
 
 ## 💾 Download Lick
 
-### [Google Drive](https://drive.google.com/file/d/1MwLniDyGFOleTzkjEiqMgU_vdD3nTtPp/view?usp=drive_link)
+### [Google Drive](https://drive.google.com/file/d/1Cm2Hyi_7PEP42ewMp1VduTfHrS5c3FLp/view?usp=sharing)
 
 ### [itch.io](https://bis-mark.itch.io/void-nova-unity)
 
