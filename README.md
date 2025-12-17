@@ -36,7 +36,7 @@ For more details, please refer to the in-game "Help" section.
 
 **Have Fun!**
 
-## 💾 Download Lick
+## 💾 Download Link
 
 ### [Google Drive](https://drive.google.com/file/d/1Cm2Hyi_7PEP42ewMp1VduTfHrS5c3FLp/view?usp=sharing)
 
@@ -67,7 +67,7 @@ For more details, please refer to the in-game "Help" section.
 >   +  **Control** : Add Fire With Mouse LB
 >
 > ### 📬 Received Feedback
->  + **(I`m Waiting!)**
+>  + **(I'm Waiting!)**
 > 
 > ### ✔️ Completed
 >  + ***(Nothing Yet)***
