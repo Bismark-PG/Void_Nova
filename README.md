@@ -15,7 +15,7 @@
 
 ## 🛠️ Development Environment
 
-* * **Engine** : Unity 6
+* **Engine** : Unity 6
 * **Language** : C#
 * **IDE** : Visual Studio, Adobe Photoshop
 * **Target Platform:** PC (Windows)
