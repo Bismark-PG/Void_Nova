@@ -15,15 +15,17 @@
 
 ## 🛠️ Development Environment
 
+* * **Engine** : Unity 6
 * **Language** : C#
-* **Tools Used** : Unity, Visual Studio, Adobe Photoshop
-* **Development start date** : 2025.6.27
+* **IDE** : Visual Studio, Adobe Photoshop
+* **Target Platform:** PC (Windows)
+* **Development start date** : 2025.06.27
 
 ## 🎮 How To Play
 
 The player's aim is controlled by the mouse direction.
-- **Movement** : WASD
-- **Fire** : Spacebar
+- **Move** : WASD
+- **Shoot** : Spacebar
 
 Enemies will begin to fire as you approach them, so use the minimap to track their positions.\
 Defeating enemy fighters will slightly increase your ultimate gauge, while destroying enemy bases will charge it significantly.
