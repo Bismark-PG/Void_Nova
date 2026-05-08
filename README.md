@@ -38,7 +38,7 @@ For more details, please refer to the in-game "Help" section.
 
 ## 💾 Download Link
 
-### [Google Drive](https://drive.google.com/file/d/1Cm2Hyi_7PEP42ewMp1VduTfHrS5c3FLp/view?usp=sharing)
+### [Google Drive](https://drive.google.com/file/d/1vbPhgYvuk-aRuATyD2cHXptq9w2a_Uar/view?usp=sharing)
 
 ### [itch.io](https://bis-mark.itch.io/void-nova-unity)
 
